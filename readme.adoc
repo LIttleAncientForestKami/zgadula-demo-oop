@@ -1,0 +1,14 @@
+= About NowaZgadula
+:author: Tomasz @LAFK_pl Borek
+
+NowaZgadula :: ?
+
+[TIP]
+.To launch / By uruchomić
+----
+
+1. Prerequisites / Prerekwizyty: JDK 11, Debian or it's derivatives / Debiana lub pochodnej, Maven 3, 
+2. Setup: nothing aside from prerequisites / Instalacja: nic więcej niż prerekwizyty
+3. `mvn clean verify; cd target; java -jar NowaZgadula.jar # NowaZgadula-versionNumbers.jar`
+----
+
