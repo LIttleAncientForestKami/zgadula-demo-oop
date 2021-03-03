@@ -7,8 +7,8 @@
     <groupId>pl.lafk</groupId>
     <artifactId>NowaZgadula</artifactId>
     <version>0.1</version>
-    <name>NowaZgadula</name>
-    <description>#DESC</description>
+    <name>Nowa Zgadula OOP</name>
+    <description>OOP demo with a simple guessing game</description>
     <url>lafk.pl</url>
   
     <properties>
@@ -73,7 +73,7 @@
                         <index>true</index>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>#FQN of your MainClass</mainClass>
+                            <mainClass>pl.lafk.Main</mainClass>
                         </manifest>
                         <manifestEntries>
                             <mode>development</mode>

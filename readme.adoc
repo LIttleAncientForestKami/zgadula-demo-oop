@@ -1,13 +1,13 @@
 = About NowaZgadula
 :author: Tomasz @LAFK_pl Borek
 
-NowaZgadula :: ?
+NowaZgadula :: new guessing game, a basic demonstration of OOP practices (abstraction, encapsulation, polimorphism). Showcases object creation via IDE and driving the code through walking skeleton (as an alternative to driving through tests).
 
 [TIP]
 .To launch / By uruchomić
 ----
 
-1. Prerequisites / Prerekwizyty: JDK 11, Debian or it's derivatives / Debiana lub pochodnej, Maven 3, 
+1. Prerequisites / Prerekwizyty: JDK 11, Maven 3, 
 2. Setup: nothing aside from prerequisites / Instalacja: nic więcej niż prerekwizyty
 3. `mvn clean verify; cd target; java -jar NowaZgadula.jar # NowaZgadula-versionNumbers.jar`
 ----
